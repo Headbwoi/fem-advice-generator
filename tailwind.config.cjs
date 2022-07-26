@@ -2,6 +2,16 @@
 module.exports = {
   content: ["./index.html", "./main.js"],
   theme: {
+    container: {
+      center: true,
+    },
+    screens: {
+      sm: "640px",
+      md: "768px",
+    },
+    fontFamily: {
+      sans: ["'Manrope', 'sans_serif'"],
+    },
     extend: {
       colors: {
         Light_Cyan: "hsl(193, 38%, 86%)",

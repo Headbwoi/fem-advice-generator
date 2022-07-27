@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://fem-advicegenerator.netlify.app/)
+- Live Site URL: [live site](https://fem-advicegenerator.netlify.app/)
 
 ## My process
 
